@@ -19,8 +19,6 @@
 
 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tripura-kant)](https://github.com/tripura-kant/github-readme-stats)
-
 
 
 
