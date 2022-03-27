@@ -1,6 +1,6 @@
 ### Hola, I am tripura kant 👋
 
-- 🔭 I’m currently working on DevOps 
+- 🔭 I’m currently working on DevOps & Cloud Computing.
 - 🌱 I’m currently learning Python, Bash scripting, Kubernetes, Docker , Ansible.
 - 👯 I’m looking to collaborate on tripurakant@gmail.com
 - 🤔 I’m looking for help with Kubernetes
