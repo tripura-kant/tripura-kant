@@ -12,10 +12,10 @@
 
 
 <a href="https://github.com/tripura-kant/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tripura-kant" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tripura-kant&repo=tripura-kant" />
 </a>
 <a href="https://github.com/tripura-kant/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tripura-kant" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=tripura-kant&repo=tripura-kant" />
 </a>
 
 
