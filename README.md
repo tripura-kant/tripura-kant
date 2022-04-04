@@ -8,7 +8,7 @@
 - 📫 How to reach me: tripurakant@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- Resume https://drive.google.com/file/d/1frmZDiF96DvmRey_GXONavDxO6gb2h6Q/view?usp=sharing
+- Resume https://bit.ly/3iZkkR9
 
 
 
