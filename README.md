@@ -1,14 +1,14 @@
 ### Hola, I am tripura kant 👋
 
 - 🔭 I’m currently working on DevOps & Cloud Computing.
-- 🌱 I’m currently learning Python, Bash scripting, Kubernetes, Docker , Ansible.
+- 🌱 I’m currently exploring Bash scripting,Python Kubernetes, Docker , Ansible.
 - 👯 I’m looking to collaborate on tripurakant@gmail.com
 - 🤔 I’m looking for help with Kubernetes
 - 💬 Ask me about Tech Stuff
 - 📫 How to reach me: tripurakant@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+- Resume https://drive.google.com/file/d/1frmZDiF96DvmRey_GXONavDxO6gb2h6Q/view?usp=sharing
 
 
 
