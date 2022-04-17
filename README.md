@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on DevOps & Cloud Computing.
 - 🌱 I’m currently exploring Bash scripting,Python Kubernetes, Docker , Ansible.
-- 👯 I’m looking to collaborate on tripurakant@gmail.com
 - 🤔 I’m looking for help with Kubernetes
 - 💬 Ask me about Tech Stuff
 - 📫 How to reach me: tripurakant@gmail.com
