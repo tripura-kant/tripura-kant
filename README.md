@@ -21,10 +21,8 @@
 
 
 
-| 
 
-<a href="https://github.com/tripura-kant/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tripura-kant&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+<a href="https://github.com/tripura-kant/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tripura-kant&layout=compact&theme=buefy&hide_border=true" /></a>
 
 
 
