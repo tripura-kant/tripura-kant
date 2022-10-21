@@ -16,9 +16,9 @@
 
 
 
+![Tripura kant's GitHub stats](https://github-readme-stats.vercel.app/api?username=tripura-kant&count_private=true)
 
 
-[![Tripura kant's GitHub stats](https://github-readme-stats.vercel.app/api?username=tripura-kant)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tripura-kant)](https://github.com/tripura-kant/github-readme-stats)
