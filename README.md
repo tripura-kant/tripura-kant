@@ -25,6 +25,4 @@
 <a href="https://github.com/tripura-kant/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tripura-kant&count_private=true&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" /></a>
 
 
-
-[![Tripurakant's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tripura-kant)](https://github.com/tripura-kant/github-readme-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tripura-kant)](https://git.io/streak-stats)
