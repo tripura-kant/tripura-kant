@@ -54,9 +54,4 @@
 <br />
 <br />
 
-<a href="https://twitter.com/anuraghazru">
-  <img align="right" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/tripura-kant/tripura-kant/master/assets/twitter.svg" />
-</a>
-<a href="https://codesandbox.io/u/tripura-kant">
-  <img align="right" alt="Anurag Hazra | CodeSandbox" width="20px" src="https://raw.githubusercontent.com/tripura-kant/tripura-kant/master/assets/codesandbox.svg" />
-</a>
+
