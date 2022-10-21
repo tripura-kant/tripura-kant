@@ -23,4 +23,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tripura-kant&show_icons=true&locale=en" alt="tripura-kant" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tripura-kant&" alt="tripura-kant" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tripura-kant&&theme=dark" alt="tripura-kant" /></p>
