@@ -12,7 +12,7 @@
 - :mailbox_with_mail: How to reach me: tripurakant@gmail.com
 - :tada: Some facts: I like cricket, exploring cricket watching movies in free time.   
 - :blue_heart: Thank you for reading my bio! Follow me with the links below & let's collaborate!
-- 💬 Achievements and Certifications: 2x AWS || Certified Aws Solution Architect Associate || Aws cloud Practitioner || Hashicorp Terraform Associate. 
+- 💬 Certifications: 2x AWS || Certified Aws Solution Architect Associate || Aws cloud Practitioner || Hashicorp Terraform Associate. 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Tripura%20Kant-blue?style=flat-square&logo=Linkedin&logoColor=white&link=<https://www.linkedin.com/in/tripura-kant/>)](<https://www.linkedin.com/in/tripurakant/>)
 
