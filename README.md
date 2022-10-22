@@ -1,10 +1,6 @@
 
 [![Tripura kant's GitHub Banner](./asset/Dev.png)](https://tripurakant.dev)
 
-![MediumBanner](https://user-images.githubusercontent.com/100802530/178038667-17c0ead2-1934-4360-a455-5316fa896527.jpg)
-
-
-
 
 ### Hey y'all 👋 My Name is Tripura Kant - it's nice to meet you!
 <!--🔭 I’m currently working on-->
