@@ -6,7 +6,7 @@
 <!--🔭 I’m currently working on-->
 
 - 👀 I’m currently interested in DevOps Engineering 
-- :books: I’m currently learning Python, Terraform, Docker & AWS
+- :books: I’m currently learning Kubernetes, Python, Terraform, Docker & AWS.
 - :two_hearts: I’m looking to collaborate on anything & everything to do with DevOps!
 - 💬 Ask me about Cloud & DevOps Engineering
 - :mailbox_with_mail: How to reach me: tripurakant@gmail.com
