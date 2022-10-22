@@ -5,9 +5,9 @@
 ### Hey y'all 👋 My Name is Tripura Kant - it's nice to meet you!
 <!--🔭 I’m currently working on-->
 
-- 👀 I’m currently interested in DevOps Engineering 
+- 👀 I’m currently interested in DevOps & Cloud Engineering.
 - :books: I’m currently learning Kubernetes, Python, Terraform, Docker & AWS.
-- :two_hearts: I’m looking to collaborate on anything & everything to do with DevOps!
+- :two_hearts: I’m looking to collaborate on anything & everything to do with DevOps & Cloud !
 - 💬 Ask me about Cloud & DevOps Engineering
 - :mailbox_with_mail: How to reach me: tripurakant@gmail.com
 - :tada: Some facts: I like cricket, exploring cricket watching movies in free time.   
