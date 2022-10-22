@@ -12,9 +12,9 @@
 - :tada: Some facts: I like cricket, exploring cricket watching movies in free time.   
 - :blue_heart: Thank you for reading my bio! Follow me with the links below & let's collaborate!
 
-[![Linkedin Badge](https://img.shields.io/badge/-Kinsey%20Parham-blue?style=flat-square&logo=Linkedin&logoColor=white&link=<https://www.linkedin.com/in/kinseyparham/>)](<https://www.linkedin.com/in/tripurakant/>)
+[![Linkedin Badge](https://img.shields.io/badge/-Kinsey%20Parham-blue?style=flat-square&logo=Linkedin&logoColor=white&link=<https://www.linkedin.com/in/tripura-kant/>)](<https://www.linkedin.com/in/tripurakant/>)
 
-[![Gmail Badge](https://img.shields.io/badge/-KinseyParham@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:<tripurakant@gmail.com>)](mailto:<tripurakant@gmail.com>)
+[![Gmail Badge](https://img.shields.io/badge/-tripurakant@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:<tripurakant@gmail.com>)](mailto:<tripurakant@gmail.com>)
 
 ## ⚡ Technologies:
 
