@@ -38,4 +38,4 @@
 <a href="https://visitorbadge.io/status?path=tripura-kant"><img src="https://api.visitorbadge.io/api/visitors?path=tripura-kant&countColor=%23263759" /></a>
 
 
-Resume : https://drive.google.com/drive/folders/1cFmasl1iZZcvbxtt7I3nA93qt7H1h9G8?usp=sharing
+
