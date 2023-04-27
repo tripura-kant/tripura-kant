@@ -7,7 +7,7 @@
 <img align="right"  height="200px" src="Img/d.gif">
 
 
-[![Tripura kant's GitHub Banner](./asset/Dev.png)](https://tripurakant.dev)
+#[![Tripura kant's GitHub Banner](./asset/Dev.png)](https://tripurakant.dev)
 
 
 ### Hey y'all 👋 My Name is Tripura Kant - it's nice to meet you!
