@@ -43,14 +43,14 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tripura-kant&hide=TeX&layout=compact)
 
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tripura-kant&" alt="tripura-kant" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=tripura-kant)](https://git.io/streak-stats)
+#<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tripura-kant&" alt="tripura-kant" /></p>
 
 
 <a href="https://visitorbadge.io/status?path=tripura-kant"><img src="https://api.visitorbadge.io/api/visitors?path=tripura-kant&countColor=%23263759" /></a>
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=tripura-kant)](https://git.io/streak-stats)
+#[![GitHub Streak](https://streak-stats.demolab.com/?user=tripura-kant)](https://git.io/streak-stats)
 
 
 
