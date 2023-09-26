@@ -43,7 +43,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tripura-kant&hide=TeX&layout=compact)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=tripura-kant&theme=highcontrast)
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=tripura-kant)](https://git.io/streak-stats)
 
 
 <a href="https://visitorbadge.io/status?path=tripura-kant"><img src="https://api.visitorbadge.io/api/visitors?path=tripura-kant&countColor=%23263759" /></a>
