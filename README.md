@@ -44,8 +44,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=tripura-kant&theme=dark)](https://git.io/streak-stats)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tripura-kant)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tripura-kant&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5)
+[![GitHub Streak](https://streak-stats.demolab.com?user=tripura-kant&theme=blue-green)](https://git.io/streak-stats)
 
 <a href="https://visitorbadge.io/status?path=tripura-kant"><img src="https://api.visitorbadge.io/api/visitors?path=tripura-kant&countColor=%23263759" /></a>
 
