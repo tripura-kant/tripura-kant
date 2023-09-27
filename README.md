@@ -50,4 +50,4 @@
 
 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=tripura-kant&theme=blue-green)
+[![GitHub Streak](https://streak-stats.demolab.com?user=tripura-kant&theme=blue-green)](https://git.io/streak-stats)
