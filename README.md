@@ -7,7 +7,7 @@
 <img align="right"  height="200px" src="Img/d.gif">
 
 
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=tripura-kant)](https://git.io/streak-stats)
 
 
 
