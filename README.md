@@ -1,53 +1,42 @@
-# Welcome <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="30px">
+### Tripura Kant
+Cloud & DevOps Engineer | CKA · AWS Certified (x2) · AWS Solutions Architect Associate · HashiCorp Terraform Associate
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=007EDA&center=true&vCenter=true&width=700&lines=Hello%2C+This+is+Tripura+Kant;DevOps+Engineer;Welcome+to+my+Github+profile;Working+at+Zoom">
-</p>
+I build and automate cloud infrastructure — Kubernetes, containers, IaC, and Linux systems. Currently deepening hands-on work in Kubernetes, Terraform, and AWS.
 
-<img align="right"  height="200px" src="Img/d.gif">
+📫 [LinkedIn](https://www.linkedin.com/in/tripurakant/) · [Medium](https://medium.com/@tripurakant) · [Mail](mailto:tripurakant@gmail.com)
 
+---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=tripura-kant)](https://git.io/streak-stats)
+#### Certifications
+- Certified Kubernetes Administrator (CKA)
+- AWS Certified Solutions Architect – Associate
+- AWS Certified Cloud Practitioner
+- HashiCorp Certified: Terraform Associate
 
-
-
-
-### Hey y'all 👋 My Name is Tripura Kant - it's nice to meet you!
-<!--🔭 I’m currently working on-->
-
-- 👀 I’m currently interested in DevOps & Cloud Engineering.
-- :books: I’m currently learning Kubernetes, Python, Terraform, Docker & AWS.
-- :two_hearts: I’m looking to collaborate on anything & everything to do with DevOps & Cloud .
-- 💬 Ask me about Cloud & DevOps Engineering
-- :mailbox_with_mail: How to reach me: tripurakant@gmail.com
-- :tada: Some facts: I like cricket, exploring cricket watching movies in free time.   
-- :blue_heart: Thank you for reading my bio! Follow me with the links below & let's collaborate!
-- 💬 Certifications: CKA || 2x AWS Certified ||  Aws Solution Architect Associate || Aws cloud Practitioner || Hashicorp Terraform Associate.
-- Medium Blog Links: https://medium.com/@tripurakant  
-
-[![Linkedin Badge](https://img.shields.io/badge/-Tripura%20Kant-blue?style=flat-square&logo=Linkedin&logoColor=white&link=<https://www.linkedin.com/in/tripura-kant/>)](<https://www.linkedin.com/in/tripurakant/>)
-
-[![Gmail Badge](https://img.shields.io/badge/-tripurakant@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:<tripurakant@gmail.com>)](mailto:<tripurakant@gmail.com>)
-
-## ⚡ Technologies:
-
-![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+#### Tech Stack
+![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat-square&logo=terraform&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=tripura-kant&count_private=true&show_icons=true&include_all_commits=true)
+---
+
+#### Featured Projects
+<!-- Replace these 3 rows with your own original repos — not forks.
+     Pin the matching repos on your profile (Customize your pins) so they show up top. -->
+
+| Project | What it does | Stack |
+|---|---|---|
+| [project-name](https://github.com/tripura-kant/REPLACE_ME) | One sentence: the real problem it solves | Terraform, AWS |
+| [project-name](https://github.com/tripura-kant/REPLACE_ME) | One sentence: the real problem it solves | Kubernetes, Docker |
+| [project-name](https://github.com/tripura-kant/REPLACE_ME) | One sentence: the real problem it solves | Python, Linux |
+
+---
+
+#### GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tripura-kant&count_private=true&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tripura-kant&hide=TeX&layout=compact)
-
-
-
-
-
-<a href="https://visitorbadge.io/status?path=tripura-kant"><img src="https://api.visitorbadge.io/api/visitors?path=tripura-kant&countColor=%23263759" /></a>
-
-
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=tripura-kant)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=tripura-kant)
