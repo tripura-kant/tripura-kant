@@ -24,15 +24,7 @@ I build and automate cloud infrastructure — Kubernetes, containers, IaC, and L
 
 ---
 
-#### Featured Projects
-<!-- Replace these 3 rows with your own original repos — not forks.
-     Pin the matching repos on your profile (Customize your pins) so they show up top. -->
-
-| Project | What it does | Stack |
-|---|---|---|
-| [project-name](https://github.com/tripura-kant/REPLACE_ME) | One sentence: the real problem it solves | Terraform, AWS |
-| [project-name](https://github.com/tripura-kant/REPLACE_ME) | One sentence: the real problem it solves | Kubernetes, Docker |
-| [project-name](https://github.com/tripura-kant/REPLACE_ME) | One sentence: the real problem it solves | Python, Linux |
+#
 
 ---
 
