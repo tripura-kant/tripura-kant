@@ -32,5 +32,3 @@ I build and automate cloud infrastructure — Kubernetes, containers, IaC, and L
 
 #### GitHub Stats
 ![GitHub Stats](https://github-readme-stats-self-1cb5.vercel.app/api?username=tripura-kant&count_private=true&show_icons=true&include_all_commits=true&cache_seconds=86400)
-![Top Langs](https://github-readme-stats-self-1cb5.vercel.app/api/top-langs/?username=tripura-kant&hide=TeX&layout=compact&cache_seconds=86400)
-![GitHub Streak](https://streak-stats.demolab.com/?user=tripura-kant)
