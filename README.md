@@ -12,6 +12,7 @@ I build and automate cloud infrastructure — Kubernetes, containers, IaC, and L
 - AWS Certified Solutions Architect – Associate
 - AWS Certified Cloud Practitioner
 - HashiCorp Certified: Terraform Associate
+- AWS cloudOps Engineer
 
 #### Tech Stack
 ![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
