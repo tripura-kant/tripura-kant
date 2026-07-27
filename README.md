@@ -32,4 +32,4 @@ I build and automate cloud infrastructure — Kubernetes, containers, IaC, and L
 
 
 #### GitHub Stats
-https://www.google.com/search?q=%5B%21%5BAnurag%27s+GitHub+stats%5D%28https%3A%2F%2Fgithub-stats-extended.vercel.app%2Fapi%3Fusername%3Dtripura-kant%29%5D%28https%3A%2F%2Fgithub.com%2Fstats-organization%2Fgithub-stats-extended%29&oq=%5B%21%5BAnurag%27s+GitHub+stats%5D%28https%3A%2F%2Fgithub-stats-extended.vercel.app%2Fapi%3Fusername%3Dtripura-kant%29%5D%28https%3A%2F%2Fgithub.com%2Fstats-organization%2Fgithub-stats-extended%29&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTEzNTg3ajBqN6gCALACAA&sourceid=chrome&source=chrome.ob&ie=UTF-8
+[![Tripura's GitHub stats](https://github-stats-extended.vercel.app/api?username=tripura-kant)](https://github.com/stats-organization/github-stats-extended)
