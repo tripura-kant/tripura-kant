@@ -32,12 +32,4 @@ I build and automate cloud infrastructure — Kubernetes, containers, IaC, and L
 
 
 #### GitHub Stats
-![GitHub Stats](https://github-readme-stats-self-1cb5.vercel.app/api?username=tripura-kant&count_private=true&show_icons=true&include_all_commits=true&cache_seconds=86400)
-![Top Langs](https://github-readme-stats-self-1cb5.vercel.app/api/top-langs/?username=tripura-kant&hide=TeX&layout=compact&cache_seconds=86400)
-![GitHub Streak](https://streak-stats.demolab.com/?user=tripura-kant)
- 
-#### Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=tripura-kant&theme=flat&no-frame=true&row=1&column=6)
- 
-#### Contribution Activity
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tripura-kant&theme=react-dark)
+https://www.google.com/search?q=%5B%21%5BAnurag%27s+GitHub+stats%5D%28https%3A%2F%2Fgithub-stats-extended.vercel.app%2Fapi%3Fusername%3Dtripura-kant%29%5D%28https%3A%2F%2Fgithub.com%2Fstats-organization%2Fgithub-stats-extended%29&oq=%5B%21%5BAnurag%27s+GitHub+stats%5D%28https%3A%2F%2Fgithub-stats-extended.vercel.app%2Fapi%3Fusername%3Dtripura-kant%29%5D%28https%3A%2F%2Fgithub.com%2Fstats-organization%2Fgithub-stats-extended%29&gs_lcrp=EgZjaHJvbWUyBggAEEUYOdIBCTEzNTg3ajBqN6gCALACAA&sourceid=chrome&source=chrome.ob&ie=UTF-8
