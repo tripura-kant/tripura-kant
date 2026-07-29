@@ -38,7 +38,7 @@ I build and automate cloud infrastructure — Kubernetes, containers, IaC, and L
 &nbsp;![](https://komarev.com/ghpvc/?username=tripura-kant&color=brightgreen)
 <p align="center">
 <img
-  src="https://github-statspro.vercel.app/api/stats/ashishps1"
+  src="https://github-statspro.vercel.app/api/stats/tripura-kant"
   alt="Stats Card"
 />
 </p>
