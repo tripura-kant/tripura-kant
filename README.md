@@ -33,3 +33,12 @@ I build and automate cloud infrastructure — Kubernetes, containers, IaC, and L
 
 #### GitHub Stats
 [![Tripura's GitHub stats](https://github-stats-extended.vercel.app/api?username=tripura-kant)](https://github.com/stats-organization/github-stats-extended)
+
+
+&nbsp;![](https://komarev.com/ghpvc/?username=tripura-kant&color=brightgreen)
+<p align="center">
+<img
+  src="https://github-statspro.vercel.app/api/stats/ashishps1"
+  alt="Stats Card"
+/>
+</p>
